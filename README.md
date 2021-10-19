@@ -1,1 +1,1 @@
-# greensideLicense under 2021 BDC.
+# greensideLicense under 2021 GSL.
