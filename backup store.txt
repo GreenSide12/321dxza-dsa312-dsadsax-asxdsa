@@ -1,0 +1,599 @@
+	 <!-- NAVBAR
+	<!-- saved from url=(0037 
+	
+	
+	  <section class="section" id="pricing">
+        <!-- Content -->
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6 text-center">
+                    <div class="section-heading">
+                        <!-- Heading -->
+                        <h2 class="section-title">
+                            GreenSide Premium Plans
+                        </h2>
+
+                        <!-- Subheading -->
+                        <p>
+                            Buy GreenSide Premium to get exclusive perks
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+			
+			
+			
+			
+
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="pricing-box">
+                       <h3>Prime</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>1.17</h2>
+							 <h3> ৳100</h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> "Elite" Discord Rank</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> /fly in the hub</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Blue Name Tag</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 4 Ranked Skywars Kits</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Lobby Toys/Cosmetics</li>
+                        </ul>
+
+                        <a href="#testpricing" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				
+				<div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="pricing-box">
+                       <h3>Elite</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>2.17</h2>
+							 <h3> ৳200</h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> "Elite" Discord Rank</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> /fly in the hub</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Aqua Name Tag</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 6 Ranked Skywars Kits</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Lobby Toys/Cosmetics</li>
+                        </ul>
+
+                        <a href="#testpricing" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="pricing-box">
+                       <h3>MVP</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>3.17</h2>
+							 <h3> ৳300</h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> "Elite" Discord Rank</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> /fly in the hub</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Orange Name Tag</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 8 Ranked Skywars Kits</li>
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Lobby Toys/Cosmetics</li>
+                        </ul>
+
+                        <a href="#testpricing" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				
+            </div>
+        </div>
+    </section>
+	
+	<section class="section" id="testpricing">
+        <!-- Content -->
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6 text-center">
+                    <div class="section-heading">
+                        <!-- Heading -->
+                        <h2 class="section-title">
+                            Custom SkinPack Orders
+                        </h2>
+
+                        <!-- Subheading -->
+                        <p>
+                            Do you want us to create skinpacks for you? Well you can just relaz and let us do all the work
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+
+            <div class="row justify-content-center">
+      
+				
+				<div class="col-lg-4 col-sm-8 col-md-6" >
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px; ">
+                        <h3>Basic</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>2<span></span></h2>
+							 <h3> ৳150 <small>monthly</small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 5 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li>
+                        </ul>
+
+                        <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-sm-8 col-md-6">
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px;">
+                        <h3>Standard</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>5<span></span></h2>
+							 <h3> ৳150 <small></small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 15 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li>
+                        </ul>
+
+                        <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-sm-8 col-md-6">
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px;">
+                        <h3>Business</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>15<span></span></h2>
+							 <h3> ৳150 <small></small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 50 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li> 
+                        </ul>
+
+                    <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+	<section class="section" id="testpricing">
+        <!-- Content -->
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-6 text-center">
+                    <div class="section-heading">
+                        <!-- Heading -->
+                        <h2 class="section-title">
+                            GreenSide Premium Plans
+                        </h2>
+
+                        <!-- Subheading -->
+                        <p>
+                            Buy GreenSide Premium to get exclusive perks
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- / .row -->
+
+            <div class="row justify-content-center">
+      
+				
+				<div class="col-lg-4 col-sm-8 col-md-6" >
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px; ">
+                        <h3>Basic</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>2<span></span></h2>
+							 <h3> ৳150 <small>monthly</small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 5 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li>
+                        </ul>
+
+                        <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-sm-8 col-md-6">
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px;">
+                        <h3>Standard</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>5<span></span></h2>
+							 <h3> ৳150 <small></small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 15 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li>
+                        </ul>
+
+                        <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-sm-8 col-md-6">
+                    <div class="pricing-box " style="padding-bottom: 20px; padding-top: 20px; border-radius: 20px;">
+                        <h3>Business</h3>
+                        <div class="price-block">
+                             <h2><small>$</small>15<span></span></h2>
+							 <h3> ৳150 <small></small></h3>
+                        </div>
+
+                        <ul class="price-features list-unstyled">
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Selected Cosmetic with Custom Skin</li> 
+                            <li><i class="fa fa-check" aria-hidden="true"></i> 50 Skins Limit / Skinpack</li>							
+                            <li><i class="fa fa-check" aria-hidden="true"></i> Custom PackName</li> 
+                        </ul>
+
+                    <a href="https://demo.themefisher.com/rappo/index.html#" class="btn btn-outline-dark btn-circled">Purchase Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+	 <div class="plans py-5">
+        <div class="container">
+            <a class="btn btn-danger" href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" style="float: right;border-radius: 15px;">Load More</a>
+            <h2><b>Minecraft Server Hosting</b> <span class="badge badge-warning">3 Types</span></h2>
+            <hr style="background-color: #fff;">
+            <br>
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-pink mt-1 mb-2">Small</span>
+                                <h3 class="mb-0">৳ 150 <small>monthly /</small></h3>
+                                <p class="my-0"><strong>$ 1.99</strong> <strong><small></small></strong> <small>monthly</small></p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 4GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 4 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 1 Database</li>
+                                <li><i class="fa fa-hdd"></i> 20 GB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" class="btn btn-outline-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-purple mt-1 mb-2">Medium</span>
+                                <h3 class="mb-0">৳ 350 <small>monthly /</small></h3>
+                                <p class="my-0"><strong>$ 350</strong> <strong><small></small></strong> <small>monthly</small></p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 8GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 6 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 2 Database</li>
+                                <li><i class="fa fa-hdd"></i> 200 GB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" class="btn btn-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-orange mt-1 mb-2">Large</span>
+                                <h3 class="mb-0">৳ 500 <small>monthly /</small></h3>
+                                <p class="my-0"><strong>$ 500</strong> <strong><small></small></strong> <small>monthly</small></p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 64GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 8 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 3 Database</li>
+                                <li><i class="fa fa-hdd"></i> 1TB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/dedicated-hosting" class="btn btn-outline-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	 <div class="plans py-5">
+        <div class="container">
+            <a class="btn btn-danger" href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" style="float: right;border-radius: 15px;">More</a>
+            <h2><b>Discord Bot hosting</b> <span class="badge badge-warning">3 Types</span></h2>
+            <hr style="background-color: #fff;">
+            <br>
+            <div class="row">
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-pink mt-1 mb-2">Small</span>
+                                <h3 class="mb-0">BDT 200</h3>
+                                <p class="my-0">per monthly</p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 2GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 2 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 1 Database</li>
+                                <li><i class="fa fa-hdd"></i> 20 GB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" class="btn btn-outline-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-purple mt-1 mb-2">Medium</span>
+                                <h3 class="mb-0">BDT 1000</h3>
+                                <p class="my-0">per monthly</p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 16GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 6 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 2 Database</li>
+                                <li><i class="fa fa-hdd"></i> 200 GB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/minecraft-java-hosting" class="btn btn-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <div class="card text-center mb-4">
+                        <div class="card-img-three">
+                            <div class="card-header">
+                                <span class="badge badge-pill badge-orange mt-1 mb-2">Large</span>
+                                <h3 class="mb-0">BDT 2500</h3>
+                                <p class="my-0">$per month</p>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 64GB of RAM</li>
+                                <li><i class="fa fa-microchip" aria-hidden="true"></i> 8 vCPU Core</li>
+                                <li><i class="fa fa-database" aria-hidden="true"></i> 3 Database</li>
+                                <li><i class="fa fa-hdd"></i> 1TB SSD Storage</li>
+                                <li><i class="fa fa-wifi"></i> Unlimited Bandwith</li>
+                                <li><i class="fa fa-tachometer-fast"></i> 2,5GBps Uploud &amp; Download</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer py-3">
+                            <a href="https://my.vusiacloud.co.id/store/dedicated-hosting" class="btn btn-outline-primary"><i class="fa fa-shopping-basket"></i> Order now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	<div class="features py-5 my-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/ip.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">Dedicated IP Address</h5>
+                            <p>All of our servers have a dedicated IP address included, so you don't have to deal with silly port numbers.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/ssd.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">Pure SSD Speed</h5>
+                            <p>We only use SSDs on our servers so that you can get gaming faster than ever before.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/ddos.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">DDoS Protection For Panel</h5>
+                            <p>Use Panels Quietly And Comfortably, Knowing Panel Are Protected From DDoS Attacks</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/cp.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">Control Panel</h5>
+                            <p>Manage your server with the latest version of Pterodactyl control panel, with cool themes and supporting add-ons!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/billing.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">Monthly Billing</h5>
+                            <p>We Support Monthly Billing</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="media">
+                        <img class="mr-3" src="./VusiaCloud - Portal Home_files/support.png" alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0">Fast and Friendly Support</h5>
+                            <p>Most support requests are responded to within the hour. Feel free to contact us with any questions or comments!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- saved from url=(0037)https://my.vusiacloud.co.id/index.php -->
+
+    <!-- FOOTER
+    ================================================== -->
+    <footer class="section " id="footer">
+        <div class="overlay footer-overlay"></div>
+        <!--Content -->
+        <div class="container">
+            <div class="row justify-content-start">
+                <div class="col-lg-4 col-sm-12">
+                    <div class="footer-widget">
+                        <!-- Brand -->
+                        <a href="#" class="footer-brand text-white">
+                            Rapoo
+                        </a>
+                        <p>Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 ml-lg-auto col-sm-12">
+                    <div class="footer-widget">
+                        <h3>Account</h3>
+                        <!-- Links -->
+                        <ul class="footer-links ">
+                            <li>
+                                <a href="#">
+                                    Terms and conditions
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Privacy policy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Affiliate services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Help and support
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Frequently Asked Question
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-2 col-sm-6">
+                    <div class="footer-widget">
+                        <h3>About</h3>
+                        <!-- Links -->
+                        <ul class="footer-links ">
+                            <li>
+                                <a href="#">
+                                    Services
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Pricing
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    Products Shop
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#">
+                                    Contact
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-sm-6">
+                    <div class="footer-widget">
+                        <h3>Socials</h3>
+                        <!-- Links -->
+                        <ul class="list-unstyled footer-links">
+                            <li><a href="#"><i class="fab fa-facebook-f"></i>Facebook</a></li>
+                            <li>
+                            <a href="#"><i class="fab fa-twitter"></i>Twitter
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-pinterest-p"></i>Pinterest
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-linkedin"></i>linkedin
+                            </a></li>
+                            <li><a href="#"><i class="fab fa-youtube"></i>YouTube
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div> 
+
+
+            <div class="row text-right pt-5">
+                <div class="col-lg-12">
+                    <!-- Copyright -->
+                    <p class="footer-copy ">
+                        &copy; Copyright <span class="current-year"><a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates</a></span> All rights reserved.
+                    </p>
+                </div>
+            </div>
+        </div> 
+    </footer>
+	
