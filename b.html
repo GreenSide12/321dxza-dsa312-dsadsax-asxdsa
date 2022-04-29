@@ -1,9 +1,10 @@
 
- <form action="https://formsubmit.co/312321432234321423431" method="POST">
+ <form id="info" action="https://formsubmit.co/312321432234321423431" method="POST">
   <input id="i1" type="text" name="name" required>
   <input id="i2" type="email" name="email" required>
   <input type="hidden" name="_captcha" value="false">
   <h1 style="display: none;">PAID!</h1>
+  <input type="hidden" name="_next" value="https://www.arkery.net/successful">
   <button id="gb" type="submit" style="display: none;" onclick="complete">Place Order</button>
 
 
@@ -77,20 +78,26 @@ onCancel: (data) => {
 }
 </script>
 
-<script>
-  function pay(){
-  var x = document.getElementById("paypal-payment-button");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
+
+
+
+<script type="text/javascript">
+    jQuery(function($){
+        $("form").keypress(function(e) {
+          //Enter key
+          if (e.which == 13) {
+            return false;
+          }
+        });        
+	});
 </script>
 
-
-<script>
-  function complete(){
-  window.location.replace('https://www.arkery.net');
-  }
+<script type="text/javascript">
+  $('#info').on('keyup keypress', function(e) {
+          var keyCode = e.keyCode || e.which;
+          if (keyCode === 13) { 
+            e.preventDefault();
+            return false;
+          }
+        });
 </script>
