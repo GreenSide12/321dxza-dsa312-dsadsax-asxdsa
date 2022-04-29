@@ -1,0 +1,90 @@
+
+ <form action="https://formsubmit.co/greensideom@gmail.com" method="POST">
+  <input id="i1" type="text" name="name" required>
+  <input id="i2" type="email" name="email" required>
+  <button id="Save" onclick="pay()">lol PVP?</button>
+  <input type="hidden" name="_captcha" value="false">
+  <h1 style="display: none;">PAID!</h1>
+  <button id="gb" type="submit" style="display: none;">Place Order</button>
+  <input id="gb" type="hidden" name="_next" value="test.com">
+  <input type="hidden" name="_webhook" value="file:///D:/ArkeryNew/storefiles/b.html">
+
+</form>
+ 
+ 
+ <div id="paypal-payment-button" style="display: none;">
+
+</div>
+
+
+
+
+
+
+<script src="https://www.paypal.com/sdk/js?client-id=ARacyIs8CVmzhHJIE-U5C1IqjDtzhIGhJRsdoOoXDWFttZ6vApKpCJHSXSHP_54OzowJtWQIhIVT4hMv&currency=USD&disable-funding=paylater"></script>
+
+<script>paypal.Buttons({
+    createOrder: (data, actions) => {
+  return actions.order.create({
+    purchase_units: [{
+      amount: {
+        value: '2.17' // Can also reference a variable or function
+      }
+    }]
+  });
+},
+// Finalize the transaction after payer approval
+onApprove: (data, actions) => {
+  return actions.order.capture().then(function(orderData) {
+    // Successful capture! For dev/demo purposes:
+    console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+    const transaction = orderData.purchase_units[0].payments.captures[0];
+    alert(`Transaction ${transaction.status}: ${transaction.id}\n\nSee console for all available details`);
+    // When ready to go live, remove the alert and show a success message within this page. For example:
+    // const element = document.getElementById('paypal-button-container');
+    // element.innerHTML = '<h3>Thank you for your payment!</h3>';
+    unhide()
+  });
+},
+onCancel: (data) => {
+  
+
+    alert(`Payment Failed \n\nIf you think this is a mistake create a support ticket in our Discord Server`);
+    // When ready to go live, remove the alert and show a success message within this page. For example:
+    // const element = document.getElementById('paypal-button-container');
+    // element.innerHTML = '<h3>Thank you for your payment!</h3>';
+}
+}).render("#paypal-payment-button");</script>
+
+<script>
+  function unhide(){
+  var x = document.getElementById("gb");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+<script>
+  function paid(){
+  var x = document.getElementById("paypal-payment-button");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+<script>
+  function pay(){
+  var x = document.getElementById("paypal-payment-button");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
